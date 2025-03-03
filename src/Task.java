@@ -13,4 +13,7 @@ public class Task {
     public String getTaskName() {
         return taskName;
     }
+    public String getStatus() {
+        return status;
+    }
 }

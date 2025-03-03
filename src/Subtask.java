@@ -13,4 +13,7 @@ public class Subtask {
     public String getSubtaskName() {
         return subtaskName;
     }
+    public String getStatus() {
+        return status;
+    }
 }

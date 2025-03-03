@@ -13,4 +13,7 @@ public class Epic {
     public String getEpicName() {
         return epicName;
     }
+    public String getStatus() {
+        return status;
+    }
 }
