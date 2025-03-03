@@ -10,4 +10,7 @@ public class Epic {
     public int getId() {
         return id;
     }
+    public String getEpicName() {
+        return epicName;
+    }
 }

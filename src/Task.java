@@ -10,4 +10,7 @@ public class Task {
     public int getId() {
         return id;
     }
+    public String getTaskName() {
+        return taskName;
+    }
 }

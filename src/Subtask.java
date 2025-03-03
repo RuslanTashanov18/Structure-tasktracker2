@@ -10,4 +10,7 @@ public class Subtask {
     public int getId() {
         return id;
     }
+    public String getSubtaskName() {
+        return subtaskName;
+    }
 }
